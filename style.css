@@ -1,0 +1,14 @@
+.container {
+	min-height: 95%;
+	position: relative;
+}
+
+.footer {
+	
+	height: 5%;
+	
+	width: 100%;
+	border-top: solid #ddd 2px;
+	padding-top: 25px;
+	margin-top: 50px;
+}
